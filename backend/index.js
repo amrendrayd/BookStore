@@ -19,7 +19,7 @@ app.use(cors());
 //     }
 // ))
 
-// const MONGOURI = 'mongodb+srv://amrendrayd:cN8siOTZpNPOJswi@cluster0.dcphunc.mongodb.net'
+// const MONGOURI = 'mongodb+srv://amrendrayd:gjsegdkjgw@cluster0.dcphunc.mongodb.net'
 
 app.get('/user', (req, res) => {
     res.send("Server is running")
